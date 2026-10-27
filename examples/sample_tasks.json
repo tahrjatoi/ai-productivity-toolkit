@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Finish RAG pipeline for personal knowledge base",
+    "deadline": "2026-10-30",
+    "impact": "high",
+    "effort": "medium"
+  },
+  {
+    "title": "Complete Aspire Leaders Week 1 assignments",
+    "deadline": "2026-10-28",
+    "impact": "high",
+    "effort": "low"
+  },
+  {
+    "title": "Improve GitHub profile and add projects",
+    "deadline": "2026-10-27",
+    "impact": "medium",
+    "effort": "low"
+  },
+  {
+    "title": "Study multi-agent systems and tool use",
+    "deadline": "2026-11-05",
+    "impact": "high",
+    "effort": "high"
+  }
+]
